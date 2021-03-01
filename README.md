@@ -1,7 +1,7 @@
 # Only working repl.it scraper (for discord tokens) as of 28/02/2021 (that doesn't just return the URL)
 
 ```YAML
-Steps:
+What it does (steps):
 1) Scrapes repl.it URLS off bing
 2) Downloads zip file of repl.it repository to a local folder
 3) extracts files from zip
