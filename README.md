@@ -1,4 +1,4 @@
-# Only working repl.it scraper as of 28/02/2021 (that doesn't just return the URL)
+# Only working repl.it scraper (for discord tokens) as of 28/02/2021 (that doesn't just return the URL)
 
 ```YAML
 Steps:
