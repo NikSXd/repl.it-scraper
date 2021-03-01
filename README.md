@@ -1,5 +1,10 @@
 # Only working repl.it scraper (for discord tokens) as of 28/02/2021 (that doesn't just return the URL)
 
+
+# Note to repl.it employees if they see this repository (doubt it)
+Hi! 
+
+# General useless nerdy information
 ```YAML
 What it does (steps):
 1) Scrapes repl.it URLS off bing
@@ -17,6 +22,8 @@ Not gonna be extremely fast. Deal with it.
 
 I was too lazy to partition it into multiple files.
 
+
+# How to build
 
 ```YAML
 How to build:
