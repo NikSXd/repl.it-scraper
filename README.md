@@ -1,6 +1,15 @@
 # Only working repl.it scraper as of 28/02/2021 (that doesn't just return the URL)
 
-Downloads the repl.it repository as a .zip file, extracts, then looks for a discord token.
+```YAML
+Steps:
+1) Scrapes repl.it URLS off bing
+2) Downloads zip file of repl.it repository to a local folder
+3) extracts files from zip
+4) reads file data for a token
+5) dumps tokens to a file
+6) opens up the notepad containing all of the tokens
+7) cleans up junk files
+```
 
 Code is ugly I know, but it works.
 
