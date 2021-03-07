@@ -8,7 +8,7 @@ Hi!
 ```YAML
 What it does (steps):
 1) Scrapes repl.it URLS off bing
-2) Downloads zip file of repl.it repository to a local folder
+2) Downloads zip file of repl.it repository to a local folder (to bypass their hCaptcha)
 3) extracts files from zip
 4) reads file data for a token
 5) dumps tokens to a file
